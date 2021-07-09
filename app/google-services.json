@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1008846894997",
+    "project_id": "dish-today",
+    "storage_bucket": "dish-today.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1008846894997:android:0c00d54615e2155c22a89c",
+        "android_client_info": {
+          "package_name": "android.example.dishtoday"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1008846894997-5qn99tq2k3pe02ch3p03t7s653duj563.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdL4z0R5uo9f7RNsC9UWpwxWyzQM5xSeI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1008846894997-5qn99tq2k3pe02ch3p03t7s653duj563.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

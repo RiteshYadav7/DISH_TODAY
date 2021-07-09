@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Dish Today</string>
+    <string name="Login">LOGIN</string>
+    <string name="register">REGISTER</string>
+    <string name="skip">SKIP</string>
+    <string name="imgDescription">Background Picture</string>
+    <string name="ALLRIGHT">ALL RIGHTS RESERED</string>
+    <string name="home">HOME</string>
+    <string name="add">add</string>
+    <string name="search">SEARCH</string>
+    <string name="notification">NOTIFICATION</string>
+    <string name="profile">PROFILE</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

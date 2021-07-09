@@ -1,0 +1,32 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <include
+        layout="@layout/tick"
+        android:id="@+id/submit_here"></include>
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Select State"
+        android:textSize="18sp"/>
+    <ListView
+        android:id="@+id/ListView_data"
+        android:layout_width="fill_parent"
+        android:layout_height="445dp"
+        android:choiceMode="multipleChoice"/>
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Select Meal Time"
+        android:textSize="18sp"/>
+    <ListView
+        android:id="@+id/ListView_Time"
+        android:layout_width="fill_parent"
+        android:layout_height="200dp"
+        android:choiceMode="singleChoice"/>
+
+</LinearLayout>
